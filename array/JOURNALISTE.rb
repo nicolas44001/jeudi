@@ -121,6 +121,7 @@ journalistes.each do |journaliste|
      
 
  end
+end
 
  #liste ordonnée
 
