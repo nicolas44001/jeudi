@@ -122,6 +122,7 @@ journalistes.each do |journaliste|
 
  end
 end
+puts compteur
 
  #liste ordonnée
 
